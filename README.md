@@ -1,5 +1,4 @@
 # activity-finish
-Activity Finish
 
 ## 액티비티 종료 테스트
 - exitProcess(0), Runtime.getRuntime().exit(0), System.exit(0)
